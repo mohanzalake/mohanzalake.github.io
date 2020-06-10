@@ -1,7 +1,7 @@
 title: Mohan Zalake
 subtitle: PhD Student & AR/VR Prototyper
 description: ''
-url: ''
+url: 'mohanzalake.github.io'
 baseurl: ''
 urls:
   - text: About Me
@@ -122,14 +122,6 @@ paginate_multiple:
   - paginate: 5
     paginate_path: '/projects/page:num/'
     sub_dir: '/projects'
-collections:
-  - products
-defaults:
-  - scope:
-      path: gallery
-    values:
-      permalink: '/:path/:basename:output_ext'
-
 timezone: America/New_York
 future: true
 plugins:
