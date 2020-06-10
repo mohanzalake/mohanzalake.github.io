@@ -1,0 +1,154 @@
+title: Mohan Zalake
+subtitle: PhD Student & AR/VR Prototyper
+description: ''
+url: ''
+baseurl: ''
+urls:
+  - text: About Me
+    url: /about
+  - text: Publications
+    url: /author_publications
+  - text: Projects
+    url: /projects
+  - text: Blog
+    url: /blog
+  # - text: Contact Me
+  #   url: /contact
+author_logo: profile.png
+author: Mohan Zalake
+author_bio:
+  - >-
+    I am Mohan Zalake, currently a student in the Human-Centered Computing Ph.D.
+    program at the University of Florida. I work in the Virtual Experiences
+    Research Group. My research interest revolves around developing embodied
+    conversational agents (ECAs). ECAs are computer generated human like 3-D
+    characters and converse through natural language-style dialogues with
+    humans. I am particularly interested in creating interactive ECAs as an
+    interface to deliver and collect medical information. Previous research has
+    shown that automated ECAs with social skills have great potential to improve
+    population health. Although large population is aware of conversational
+    interfaces like smart home speakers, very few are familiar with ECAs. My
+    research focuses on identifying and understanding user needs of diverse
+    healthcare population to build intuitive and usable ECA interfaces.
+  - >-
+    I have developed ECA interfaces to provide medical support for suicidal
+    patients and to increase awareness of colon cancer screening among elderly
+    population. Developing such interfaces involves interdisciplinary
+    collaboration (like doctors, computer scientists, communication scientists),
+    interacting with target population, understanding user needs, building
+    prototypes and testing with target population through out the design
+    process.
+  - >-
+    I have also developed several Unity based VR experiences which demonstrate
+    applicability of VR in various domains. My interests include virtual
+    reality, natural language processing, machine learning, computer graphics
+    and human-computer interaction.
+author_email: mohanzalake@ufl.edu
+author_location: Gainesville, Florida, USA
+author_website_url: 'http://mohanzalake.github.io'
+typewrite-text: >-
+  I am a 3rd year PhD student at University of Florida
+author_work_experiences:
+  - company_name: Google
+    company_logo: google.png
+    company_url: 'https://google.com'
+    designation: Software Engineer
+    description: Worked on various Google Products
+    visibility: true
+  - company_name: Microsoft
+    company_logo: microsoft.png
+    company_url: 'https://microsoft.com'
+    designation: Azure Developer
+    description: Worked on various Azure Cloud Products
+    visibility: true
+author_education_details:
+  - college_logo: UF.png
+    college_name: University of Florida
+    college_url: 'https://www.cise.ufl.edu/'
+    college_degree: Ph.D.
+    description: Ph.D. in Human-Centered Computing
+    visibility: true
+  - college_logo: UF.png
+    college_name: University of Florida
+    college_url: 'https://www.cise.ufl.edu/'
+    college_degree: M.S.
+    description: Masters in Digital Arts and Sciences
+    visibility: true
+author_project_details:
+  - project_thumbnail: gamershub.png
+    project_title: Gamers Hub
+    project_description: A Platform built for Gamers and Game Devs
+    project_url: 'https://gamershub.in'
+    visibility: true
+  - project_thumbnail: hack4r.PNG
+    project_title: Hack4r
+    project_description: A Platform built for Hackers and Penetration Testers
+    project_url: 'https://hack4r.com'
+    visibility: true
+twitter_username: ZalakeMohan
+github_username: mohanzalake
+# facebook_username: johndoe
+linkedin_username: mohanzalake
+# behance_username: johndoe
+# instagram_username: johndoe
+# medium_username: johndoe
+# telegram_username: johndoe
+# dribbble_username: johndoe
+# flickr_username: johndoe
+# hyvor_talk_website_id: 476
+# wakatime_username: sujaykundu777
+# mailchimp_form_url: >-
+#   https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
+# formspree_email: mohanzalake@ufl.edu
+markdown: kramdown
+highlighter: rouge
+permalink: pretty
+show_author_work_experiences: false
+show_author_education_details: true
+show_author_project_details: false
+algolia:
+  application_id: D9WA1YKTRQ
+  index_name: blog_posts
+  files_to_exclude: []
+  nodes_to_index: article
+  search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
+paginate: 4
+per_page: 4
+# paginate_path: '/blog/page/:num/'
+paginate_multiple:
+  - paginate: 5
+    paginate_path: '/blog/page:num/'
+    sub_dir: '/blog'
+  - paginate: 5
+    paginate_path: '/projects/page:num/'
+    sub_dir: '/projects'
+collections:
+  - products
+defaults:
+  - scope:
+      path: gallery
+    values:
+      permalink: '/:path/:basename:output_ext'
+
+timezone: America/New_York
+future: true
+plugins:
+  - jekyll-feed
+  - jekyll-paginate
+  - jekyll-gist
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-algolia
+  - jekyll-menus
+exclude:
+  - .sass-cache/
+  - .jekyll-cache/
+  - gemfiles/
+  - Gemfile
+  - Gemfile.lock
+  - node_modules/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+destination: ./build

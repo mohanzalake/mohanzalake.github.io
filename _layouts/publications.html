@@ -1,0 +1,30 @@
+---
+layout: default
+---
+
+
+<article class="card" itemscope itemtype="http://schema.org/BlogPosting">
+ 
+  <div class="card-body" itemprop="articleBody">
+    <img
+      class="card-img-top"
+      src="{{site.url}}{{site.baseurl}}{{ page.thumbnail }}"
+      alt="{{ post.title }}"
+    />
+    <br />
+    <br />
+    {{ content }}
+    <br />
+    {%- include share_page.html -%}
+  </div>
+  {%- if site.hyvor_talk_website_id -%}
+  <div class="comments">
+    {%- include hyvor_comments.html -%}
+   </div>
+    {%- endif -%}
+  <!-- Incomment incase you want to use Disqus
+      <div id="disqus_thread"></div>
+   -->
+
+
+</article>
