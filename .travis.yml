@@ -12,5 +12,22 @@ branches:
   - gh-pages
   script:
   - JEKYLL_ENV=production bundle exec jekyll build --destination site
+  
+  
+# You need to generate a Personal Access Token
+# https://github.com/settings/tokens
+# Add this token in environment variable GITHUB_TOKEN in Travis CI repo settings
+
+deploy:
+  provider: pages
+  local-dir: ./site
+  target-branch: master
+  email: deploy@travis-ci.org
+  name: Deployment Bot
+  skip-cleanup: true
+  github-token: $GITHUB_TOKEN
+  keep-history: true
+  on:
+    branch: gh-pages
 
 
