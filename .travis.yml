@@ -31,7 +31,3 @@ deploy:
     branch: gh-pages
 
 
-gem install travis
-travis encrypt 'GIT_NAME="YOUR_USERNAME" GIT_EMAIL="YOUR_EMAIL" GH_TOKEN=YOUR_TOKEN' --add env.global --com
-
-
