@@ -28,6 +28,7 @@
       on:
         branch: gh-pages
 
+
     # Generate your secure token with the travis gem:
     # get Github token from your Travis CI profile page
       gem install travis
