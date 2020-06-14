@@ -1,8 +1,12 @@
 ---
-title: Virtual Reality Shopping Experience
 layout: post
-thumbnail: "/assets/img/projects/vrshopping.jpg"
+author: Mohan Zalake
+title: Virtual Reality Shopping Experience
+date: 2020-06-14T23:35:32.771Z
+thumbnail: /assets/img/projects/vrshopping.jpg
 category: Virtual Reality
+summary: Unique shopping platform in VR based on user study which integrates VR
+  concepts and re-defines the shopping experience.
 ---
 
 **Executive Summary**
