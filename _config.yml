@@ -106,22 +106,25 @@ permalink: pretty
 show_author_work_experiences: false
 show_author_education_details: true
 show_author_project_details: false
-algolia:
-  application_id: D9WA1YKTRQ
-  index_name: blog_posts
-  files_to_exclude: []
-  nodes_to_index: article
-  search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
+# algolia:
+#   application_id: D9WA1YKTRQ
+#   index_name: blog_posts
+#   files_to_exclude: []
+#   nodes_to_index: article
+#   search_only_api_key: 58ffdd7cd6c45ec1577a7fcd789b1b9a
+collections:
+  projects:
+    output: true
 paginate: 4
 per_page: 4
-# paginate_path: '/blog/page/:num/'
-paginate_multiple:
-  - paginate: 5
-    paginate_path: '/blog/page:num/'
-    sub_dir: '/blog'
-  - paginate: 5
-    paginate_path: '/projects/page:num/'
-    sub_dir: '/projects'
+paginate_path: '/blog/page/:num/'
+# paginate_multiple:
+#   - paginate: 5
+#     paginate_path: '/blog/page:num/'
+#     sub_dir: '/blog'
+#   - paginate: 5
+#     paginate_path: '/projects/page:num/'
+#     sub_dir: '/projects'
 timezone: America/New_York
 future: true
 plugins:
