@@ -6,7 +6,8 @@ layout: default
   <div class="col-lg-8 offset-md-1">
           <ul>
               <div class="row">
-                {% for project in site.projects %}
+                {% assign sorted = site.projects | sort: 'date' | reverse %}
+                {% for project in sorted %}
                 {% include project.html %}
                 {% endfor %}
               </div>
