@@ -14,6 +14,14 @@ layout: default
       endif %}
 
       <p class="profile-links">
+        {% if site.googlescholar_username%}
+        <a
+          class="social-link"
+          href="https://scholar.google.com/citations?user={{ site.googlescholar_username}}"
+        >
+          <i class="fab fa-google"></i>
+        </a>
+        {% endif %}
         {% if site.twitter_username %}
         <a
           class="social-link"
@@ -80,6 +88,14 @@ layout: default
           href="https://www.flickr.com/photos/{{ site.flickr_username }}"
         >
           <i class="fab fa-flickr"></i>
+        </a>
+        {% endif %}
+        {% if site.youtube_username%}
+        <a
+          class="social-link"
+          href="https://www.youtube.com/playlist?list={{ site.youtube_username}}"
+        >
+          <i class="fab fa-youtube"></i>
         </a>
         {% endif %}
       </p>
