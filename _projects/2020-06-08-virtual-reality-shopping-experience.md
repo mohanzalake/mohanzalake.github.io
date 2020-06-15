@@ -8,7 +8,7 @@ category: Virtual Reality
 summary: Unique shopping platform in VR based on user study which integrates VR
   concepts and re-defines the shopping experience.
 ---
-<iframe width="560" height="315" src="https://www.youtube.com/embed/WRERCSFPL60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe style="display: block;margin-left:auto;margin-right:auto;" width="720" height="480" src="https://www.youtube.com/embed/WRERCSFPL60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Executive Summary**
 

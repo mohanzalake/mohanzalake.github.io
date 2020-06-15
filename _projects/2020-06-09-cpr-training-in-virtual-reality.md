@@ -10,17 +10,7 @@ summary: VR based trainer to perform CPR. Built in a day. Hackathon Winner -
 ---
 
 
-- - -
-
-layout: post author: Mohan Zalake
-title: CPR Training in Virtual Reality
-date: 2020-06-09T00:38:51.270Z
-thumbnail: /assets/img/posts/vrtraining.jpg
-category: jekyll
-summary: VR based trainer to perform CPR. Built in a day. Hackathon Winner -
-  Best First-Time Hack.
-
-- - -
+<iframe style="display: block;margin-left:auto;margin-right:auto;" width="720" height="480" src="https://www.youtube.com/embed/du-Cq6IdjbY" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Inspiration
 
