@@ -8,6 +8,7 @@ category: Virtual Reality
 summary: Unique shopping platform in VR based on user study which integrates VR
   concepts and re-defines the shopping experience.
 ---
+<iframe width="560" height="315" src="https://www.youtube.com/embed/WRERCSFPL60" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **Executive Summary**
 
@@ -29,17 +30,12 @@ One focus group was conducted with graduate students at UF. A total of 7 student
 
 After conducting the user research, the responses the researchers gave have been transcribed into post-its. Similar responses are organized and then the affinity diagram was used to analyze the results. 6 user needs were summarized based on priorities (high to low) from the affinity diagram and are listed below:
 
-1) I want to shopping for fun/social experience.
-
-2) I like to find/buy things easily.
-
-3) I need proper details of product.
-
-4) I need haptic feedback/measurement.
-
-5) I need personalized experience;
-
-6) I don’t want to waste a lot of time in shopping.
+1. I want to shopping for fun/social experience.
+2. I like to find/buy things easily.
+3. I need proper details of product.
+4. I need haptic feedback/measurement.
+5. I need personalized experience;
+6. I don’t want to waste a lot of time in shopping.
 
 **Brainstorm**
 
