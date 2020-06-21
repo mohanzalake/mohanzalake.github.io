@@ -19,7 +19,10 @@ The goal of the project was to develop an virtual human-based suicidal health in
 
    The design process involved iterative prototyping with continuous user-testing. The development phase involved low and high fidelity prototypes to test and refine ideas.
 
-   ![Low-Fidelity Prototype](/assets/img/posts/cams-lowfi.png "Low-Fidelity Prototype"){:height="320px"}
+![Low-Fidelity Prototype image size](/assets/img/posts/cams-lowfi.png "Low-Fidelity Prototype")
+
+![High-Fidelity Prototype](/assets/img/posts/cams-highfi.png "High Fidelity Prototype")
+
 
 2. **Kirkpatrick Evaluation Model was used to identify evaluation metrics.**
 
