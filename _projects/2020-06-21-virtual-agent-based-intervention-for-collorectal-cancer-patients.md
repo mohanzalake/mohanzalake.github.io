@@ -16,7 +16,7 @@ The goal of the project was to develop a virtual agent-based health intervention
 
 ### **Collaborators**
 
-Physicians, Communication Scientists, Commmunity members.
+Physicians, Communication Scientists, Community members.
 
 ### My Role as Virtual Agent and User Experience Researcher
 
