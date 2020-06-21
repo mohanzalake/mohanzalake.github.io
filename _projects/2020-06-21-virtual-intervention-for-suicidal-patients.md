@@ -13,8 +13,21 @@ summary: Virtual human health intervention system for suicidal patients
 
 The goal of the project was to develop an virtual human-based suicidal health intervention to reduce suicide and readmission of suicidal patients.  
 
-![Kirkpatrick evaluation model for CAMS image size](/assets/img/posts/cams-kirk.png "Kirkpatrick evaluation model for CAMS"){:height="640px" width=480px"}
+**Approach**
 
+1. **User-centered Design Process**
+
+   The design process involved iterative prototyping with continuous user-testing. The development phase involved low and high fidelity prototypes to test and refine ideas.
+
+   Low-Fidelity Prototype
+   ![Low Fidelity Prototype image size](/assets/img/posts/cams-lowfi.png "Low Fidelity Prototype"){:height="640px"}
+
+   High-Fidelity Prototype
+   ![High Fidelity Prototype image size](/assets/img/posts/cams-highfi.png "High Fidelity Prototype"){:height="640px"}
+
+2. **Kirkpatrick Evaluation Model was used to identify evaluation metrics.**
+
+![Kirkpatrick evaluation model for CAMS image size](/assets/img/posts/cams-kirk.png "Kirkpatrick evaluation model for CAMS"){:height="640px"}
 
 **Collaborators**
 
