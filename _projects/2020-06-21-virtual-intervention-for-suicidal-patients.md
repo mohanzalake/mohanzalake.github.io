@@ -65,7 +65,8 @@ The system was evaluated with 24 suicidal patients during iterative prototyping.
 
 ### Results
 
-Users found virtual intervention via tablets acceptable. Users also found interaction with "virtual doctor" to be easy to use, helpful, and entertaining.
+* Users found virtual intervention via tablets acceptable. 
+* Users also found interaction with "virtual doctor" to be easy to use, helpful, and entertaining.
 
 Please refer following publication for more details. 
 
