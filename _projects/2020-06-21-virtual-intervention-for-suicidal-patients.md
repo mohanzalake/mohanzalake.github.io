@@ -11,7 +11,7 @@ summary: Virtual agent health intervention system for suicidal patients
 
 ### **Goals**
 
-The goal of the project was to develop an virtual agent-based suicidal health intervention to reduce suicide and readmission of suicidal patients.  
+The goal of the project was to develop a virtual agent-based suicidal health intervention to reduce suicide and readmission of suicidal patients.  
 
 ### **Collaborators**
 
