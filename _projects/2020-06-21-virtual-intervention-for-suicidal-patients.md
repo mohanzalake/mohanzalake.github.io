@@ -17,7 +17,7 @@ The goal of the project was to develop an virtual agent-based suicidal health in
 
 Suicidologists, Therapists, Psychologists
 
-### My Role as Virtual Agent Researcher
+### My Role as Virtual Agent and User Experience Researcher
 
 My role in the project was to: 
 
