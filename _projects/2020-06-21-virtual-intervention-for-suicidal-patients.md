@@ -1,11 +1,11 @@
 ---
 layout: post
 author: Mohan Zalake
-title: Virtual Intervention for Suicidal Patients
+title: Virtual Agent-Based Intervention for Suicidal Patients
 date: 2020-06-21T16:37:54.495Z
 thumbnail: /assets/img/posts/cams.png
 category: Virtual Agents
-summary: Virtual human health intervention system for suicidal patients
+summary: Virtual Agent health intervention system for suicidal patients
 ---
 <iframe style="display: block;margin-left:auto;margin-right:auto;" width="720" height="480" src="https://www.youtube.com/embed/ILgiat55bcI" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
@@ -16,6 +16,14 @@ The goal of the project was to develop an virtual human-based suicidal health in
 ### **Collaborators**
 
 Suicidologists, Therapists, Psychologists
+
+### My Role as Virtual Agent Researcher
+
+My role in the project was to: 
+
+1) provide virtual agent domain knowledge for non-computer science experts. I helped team understand best-practices for designing agent-based health intervention based on prior literature on virtual agents and my prior experience of developing virtual agents. 
+
+2) develop and iterate prototypes based on user feedback during iterative prototyping. 
 
 ### **Target Audience**
 
