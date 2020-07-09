@@ -9,7 +9,7 @@ category: Paper Summaries
 summary: Discussion of my takeaways as a virtual human researcher from the paper
   related to source credibility,
 ---
-Recently, one of my collaborator with expertise in Health and Science Communication, shared a paper with me discussing about credibility in digital media. I wanted to discuss my takeaways as a virtual human researcher in this blog, 
+Recently, one of my collaborator with expertise in Health and Science Communication, shared a paper with me discussing about credibility in digital media. I wanted to discuss my takeaways as a virtual human researcher in this blog. 
 
 **Paper** - 
 
