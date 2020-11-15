@@ -10,7 +10,7 @@ author: Mohan Zalake
 
 Vilaro, M. J., Wilson-Howard, D. S., Griffin, L. N., Tavassoli, F., **Zalake, M. S.**, Lok, B. C., Modave,
 F. P., George, T. J., Carek, P. J., & Krieger, J. L. (2020). Tailoring virtual human-delivered interven-
-tions: A digital intervention promoting colorectal cancer screening for Black women. Psycho-Oncology. [Learn More](https://doi.org/10.1002/pon.5538)
+tions: A digital intervention promoting colorectal cancer screening for Black women. Psycho-Oncology. [Learn More](https://onlinelibrary.wiley.com/doi/full/10.1002/pon.5538)
 
 Dimeff, L., Jobes, D. A., Chalker, S. A., Piehl, B., Duvivier, L. L., Lok, B. C., **Zalake, M.** S., Chung, J., & Koerner, K. (2018) A Novel Engagement of Suicidality in the Emergency Department: Virtual Collaborative Assessment and Management of Suicidality. *General Hospital Psychiatry*. [Learn More](https://www.sciencedirect.com/science/article/pii/S0163834318300884)
 
