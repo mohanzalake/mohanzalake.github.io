@@ -1,7 +1,8 @@
 ---
 layout: post
 author: Mohan Zalake
-title: Upcoming Talk at the Discovery Partners Illinois Chicago Institute on Aug. 26th
+title: Upcoming Talk at the Discovery Partners Institute Illinois Chicago
+  Institute on Aug. 26th
 date: 2021-08-19T19:00:08.154Z
 thumbnail: /assets/img/posts/dpi.png
 category: Announcements
