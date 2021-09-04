@@ -9,7 +9,9 @@ category: News
 summary: Grant writing course on refining grant writing and research project
   development skills
 ---
-![](/assets/img/posts/grantwriting2.jpg.png)
+<p align="center">
+<img src="/assets/img/posts/grantwriting2.jpg.png" alt="drawing" width="300"/>
+</p>
 
 
 
