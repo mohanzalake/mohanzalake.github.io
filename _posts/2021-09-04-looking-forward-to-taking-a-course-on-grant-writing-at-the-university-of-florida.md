@@ -9,4 +9,8 @@ category: News
 summary: Grant writing course on refining grant writing and research project
   development skills
 ---
+![](/assets/img/posts/grantwriting.jpg)
+
+
+
 This fall I am looking forward to taking a grant writing course offered by Dr. Janice Krieger from the Department of Journalism and Communications at the University of Florida. As a part of this course, I will be working towards writing an independent research grant proposal while simultaneously learning to conceptualize and develop standard proposal components (e.g., project goal, background, logic model, approach, and budget).
