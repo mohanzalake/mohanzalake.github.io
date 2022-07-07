@@ -1,7 +1,7 @@
 ---
 layout: post
 author: Mohan Zalake
-title: News - Joined UIC as a Research Assistant Professor at UIC
+title: News - Joined UIC as a Research Assistant Professor
 date: 2022-07-07T20:35:40.793Z
 thumbnail: /assets/img/posts/uic-bhis-logo.jpg
 category: News
