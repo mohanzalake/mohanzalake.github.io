@@ -5,13 +5,17 @@ summary: Publications
 author: Mohan Zalake
 ---
 # **Journal Articles**
-**Zalake, M.**, Siqueira, A., Vaddiparti, K., Lok, B. (2021) The Effects of Virtual Human's Verbal Persuasion Strategies on User Intention and Behavior. *International Journal of Human-Computer Studies* (Accepted, **Impact Factor: 3.6**)
+Vilaro, M. J., Bryan, E., Te, P., **Zalake, M.**, Cooks, E., & Krieger, J. L. (2022, April). Rural Adults Perceptions of Nutrition Recommendations For Cancer Prevention: Contradictory And Conflicting Messages. In Annals of Behavioral Medicine (Vol. 56, No. Supp 1, Pp. S549-S549). Journals Dept, 2001 Evans Rd, Cary, NC 27513 USA: Oxford Univ Press Inc. **(Impact Factor: 4.9)**
+
+Wilson-Howard, D., Vilaro, M.J., Neil, J.M., Cooks, E.J., Griffin, L.N., Ashley, T.T., Tavassoli, F., **Zalake, M.S.**, Lok, B.C., Odedina, F.T. and Modave, F., 2021. Development of a Credible Virtual Clinician Promoting Colorectal Cancer Screening via Telehealth Apps for and by Black Men: Qualitative Study. JMIR Formative Research, 5(12), p.e28709. [Learn More](https://formative.jmir.org/2021/12/e28709/)
+
+**Zalake, M.**, de Siqueira, A. G., Vaddiparti, K., & Lok, B. (2021). The effects of virtual human’s verbal persuasion strategies on user intention and behavior. International Journal of Human-Computer Studies, 156, 102708. (**Impact Factor: 3.6**) [Learn More](https://www.sciencedirect.com/science/article/pii/S1071581921001269)
 
 Vilaro, M.J., Wilson-Howard, D.S., **Zalake, M.S.**, Tavassoli, F., Lok, B.C., Modave, F.P., George, T.J., Odedina, F., Carek, P.J. and Krieger, J.L., (2021). Key changes to improve social presence of a virtual health assistant promoting colorectal cancer screening informed by a technology acceptance model. *BMC Medical Informatics and Decision Making*. **(Impact Factor: 3.4)** [Learn More](https://bmcmedinformdecismak.biomedcentral.com/articles/10.1186/s12911-021-01549-z)
 
 Vilaro, M. J., Wilson-Howard, D. S., Neil, J. M., Tavassoli, F., **Zalake, M. S.**, Lok, B. C., Modave, F.P., George, T.J., Odedina, F.T., Carek, P.J. & Mys, A.M. (2021). A Subjective Culture Approach to Cancer Prevention: Rural Black and White Adults’ Perceptions of Using Virtual Health Assistants to Promote Colorectal Cancer Screening. *Health Communication*, 1-12. **(Impact Factor: 1.96)** [Learn More](https://www.tandfonline.com/doi/full/10.1080/10410236.2021.1910166)
 
-Krieger, J. L., Neil, J. M., Duke, K., **Zalake, M.**, Tavassoli, F., Vilaro, M., Wilson-Howard, D., Chavez, S., Laber, E., Davidian, M., George, T., Modave, F., Odedina, F., Lok, B. (2021). A pilot study examining the ecacy of delivering colorectal cancer screening messages via virtual health assistants.
+Krieger, J. L., Neil, J. M., Duke, K., **Zalake, M.**, Tavassoli, F., Vilaro, M., Wilson-Howard, D., Chavez, S., Laber, E., Davidian, M., George, T., Modave, F., Odedina, F., Lok, B. (2021). A pilot study examining the efficacy of delivering colorectal cancer screening messages via virtual health assistants.
 American Journal of Preventive Medicine. **(Impact Factor: 4.5)** [Learn More](https://pubmed.ncbi.nlm.nih.gov/33888362/)
 
 **Zalake, M.**, Tavassoli, F., Duke, K. George, T., Modave, F., Neil, J., Krieger, J. and Lok, B. (2021) Internet-based tailored virtual human health intervention

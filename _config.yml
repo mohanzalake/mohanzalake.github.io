@@ -1,5 +1,5 @@
 title: Mohan Zalake
-subtitle: Ph.D., Research interests in Virtual Agents, Human-Computer Interaction, AR/VR/XR
+subtitle: Research Assistant Professor at UIC, Ph.D., Research interests in Virtual Agents, Human-Computer Interaction, AR/VR/XR
 description: ''
 url: 'https://mohanzalake.github.io'
 baseurl: ''
@@ -8,7 +8,7 @@ urls:
     url: /about
   - text: Publications
     url: /author_publications
-  - text: Projects
+  - text: Research
     url: /projects
   - text: Blog
     url: /blog
@@ -18,31 +18,26 @@ author_logo: profile.png
 author: Mohan Zalake
 author_bio:
   - >-
-    I am Mohan Zalake. I have a Ph.D. in Human-Centered Computing from the University of Florida. My research interest revolves around developing interactive Embodied Conversational Agents (ECAs). ECAs are computer generated human like 3-D
-    characters and converse through natural language-style dialogues with
-    humans. I am particularly interested in developing ECA's that can adapt behavior (both verbal and non-verbal) based on people's characteristics (e.g., personalities) to effectively persuade users in a social conversation.
+    I am Mohan Zalake. I am a Research Assistant Professor in the Biomedical and Health Information Sciences department at the University of Illinois Chicago (UIC). I direct the V-ARE Lab (Virtual healthcARe Experiences Laboratory) at UIC. I have a Ph.D. in Human-Centered Computing from the University of Florida. My research interest revolves around developing interactive Embodied Conversational Agents (ECAs). ECAs are computer generated human like 3-D characters and converse through natural language-style dialogues with humans. I am particularly interested in developing ECA's that can adapt behavior (both verbal and non-verbal) based on people's characteristics (e.g., personalities) to effectively persuade users in a social conversation.
   - >-
-    My research has largely evaluated ECAs with social skills to improve
-    population health. Although large population is aware of conversational
-    interfaces like smart home speakers, very few are familiar with ECAs. My
-    research focuses on identifying and understanding user needs of diverse
-    healthcare population to build adaptive, intuitive, and usable ECA interfaces to positively influence people's health-related behavior. My research has also led to development of ECA-based interfaces that has been used by more than 4000+ users across different health contexts such as improving mental health among college students, supporting suicidal patients, increasing awareness of colon cancer screening among elderly
-    population, and many more. Developing such interfaces involves interdisciplinary
-    collaboration (like doctors, computer scientists, communication scientists),
-    interacting with target population, understanding user needs, building
-    prototypes and testing with target population through out the design
-    process.
+    My research has largely evaluated ECAs with social skills to improve population health. Although large population is aware of conversational interfaces like smart home speakers, very few are familiar with ECAs. My research focuses on identifying and understanding user needs of diverse healthcare population to build adaptive, intuitive, and usable ECA interfaces to positively influence people's health-related behavior. My research has also led to development of ECA-based interfaces that has been used by more than 4000+ users across different health contexts such as improving mental health among college students, supporting suicidal patients, increasing awareness of colon cancer screening among elderly
+    population, and many more. Developing such interfaces involves interdisciplinary collaboration (like doctors, computer scientists, communication scientists), interacting with target population, understanding user needs, building prototypes and testing with target population through out the design process.
   - >-
     I have developed a platform called Virtual Interviewer Platform (<a href="https://youtu.be/L1yYgWBwhVc" target="_blank">VIP</a>) that enables rapid development of web-based ECAs. I have also developed several Unity-based virtual reality experiences which demonstrate
     applicability of virtual reality in various domains. My interests include virtual agents, virtual reality, machine learning, computer graphics
     and human-computer interaction.
-author_email: mohanzalake@ufl.edu
-author_location: Gainesville, Florida, USA
+author_email: zalake@uic.edu
+author_location: Chicago, Illinois, USA
 author_website_url: 'http://mohanzalake.github.io'
 typewrite-text: >-
-  Ph.D., Research interests in Virtual Agents, Human-Computer Interaction, AR/VR/XR
+  Research Assistant Professor at UIC, Ph.D., Research interests in Virtual Agents, Human-Computer Interaction, AR/VR/XR
 author_cv: "https://uflorida-my.sharepoint.com/:f:/g/personal/mohanzalake_ufl_edu/Ei4szsd79IZCuk_vwHofXHcBi4MKhIDCyRTSXerTrMABOg?e=FSfs8e"
 author_work_experiences:
+  - company_name: Biomedical and Health Information Sciences, University of Illinois Chicago
+    company_logo: UIC.png
+    company_url: 'https://ahs.uic.edu/biomedical-health-information-sciences/'
+    designation: Research Assistant Professor
+    description: Conduct research in Human-Computer Interaction (HCI), Virtual Reality (VR), and healthcare technologies.
   - company_name: Virtual Experience Research Group
     company_logo: verg.jpg
     company_url: 'https://verg.cise.ufl.edu/'
