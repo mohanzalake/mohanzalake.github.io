@@ -38,6 +38,7 @@ author_work_experiences:
     company_url: 'https://ahs.uic.edu/biomedical-health-information-sciences/'
     designation: Research Assistant Professor
     description: Conduct research in Human-Computer Interaction (HCI), Virtual Reality (VR), and healthcare technologies.
+    visibility: true
   - company_name: Virtual Experience Research Group
     company_logo: verg.jpg
     company_url: 'https://verg.cise.ufl.edu/'
